@@ -17,3 +17,4 @@ RSpec.describe StringBuilder do
     end
     
 end
+#the method needs to be separated as there's two separate ideas being tested. 

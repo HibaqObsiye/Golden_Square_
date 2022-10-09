@@ -9,3 +9,5 @@ RSpec.describe Counter do
    end
     
 end
+#counter.add just increases the value of the counter instance variable
+#as the counter.report requires a returned statement, I stored it in a result variable and then expect it to return a string

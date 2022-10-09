@@ -11,3 +11,6 @@ RSpec.describe Reminder do
     end
   end
 end
+#1) Initialize an object
+#2)set a failing method e.g reminder.remind() empty will raise the error
+#3)the stored failing method is then used in the expect matcher to raise an error

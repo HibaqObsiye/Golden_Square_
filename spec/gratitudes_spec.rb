@@ -11,3 +11,5 @@ RSpec.describe Gratitudes do
     
 
 end
+#With an array, in the rspec, you can list more than one value
+#expect line is the returned string with the values listed in the add method

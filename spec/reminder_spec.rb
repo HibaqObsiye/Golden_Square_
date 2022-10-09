@@ -8,6 +8,9 @@ RSpec.describe Reminder do
     expect(result).to eq "Walk the dog, Kay!"
   end
     
-    
+ #1)Initialize an object
+  #2)set a value in the method
+  #store method in a variable
+  #return expect matcher
     
 end

@@ -6,5 +6,4 @@ describe '.greet' do
      expect(greet("hibaq")).to eq "Hello, hibaq!"  
    end
     
-    
 end

@@ -9,6 +9,5 @@ RSpec.describe PasswordChecker do
         expect{password_checker.check("one")}.to raise_error "Invalid password, must be 8+ characters."
     end
     
-
-
+#with the fail rspec, you don't have to prepare the test with the true statement
 end
